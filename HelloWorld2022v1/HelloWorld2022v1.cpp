@@ -6,7 +6,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "  from Lee\n";
+    std::cout << "  from LeeV\n";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
